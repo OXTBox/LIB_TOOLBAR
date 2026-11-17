@@ -96,7 +96,8 @@ found by the install's find-file rule. No path in a toolbar file names a drive o
 
 ### The projects launcher, as shipped (the "fill in the blanks")
 
-Every target below was checked to exist today, except where marked.
+The files named below were checked to exist today. Not settled: how the Editor button starts
+iGame3D XT, and Theme Studio (it has a script and a development stack, no stable stack file yet).
 
 | Group | Button | Symbol | Opens |
 |---|---|---|---|
