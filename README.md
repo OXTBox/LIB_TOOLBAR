@@ -16,3 +16,7 @@ menu	try	☞	files=LIB_TEST/*.bat	tip=Things to open and try now
 | It owns | It leaves to |
 |---|---|
 | the launcher strip, the `*.toolbar` content file, what a press does | drawing the window: LIB_GUI. Colours: LIB_THEME. Who is driving and what they may press: LIB_USERS |
+
+## Licence
+
+MIT (see `LICENSE`), Copyright (c) 2026 xAction.
